@@ -37,14 +37,14 @@
 
 &emsp;&emsp;[第二十二章：倒装句][22]
 
-[1]:https://anesck.github.io/English_Magician/typora_html/1.基本句型及补语.html	"查看笔记"
-[2]:https://anesck.github.io/English_Magician/typora_html/2.名词短语与冠词.html	"查看笔记"
-[3]:https://anesck.github.io/English_Magician/typora_html/3.动词时态.html	"查看笔记"
-[5]:https://anesck.github.io/English_Magician/typora_html/5.动名词.html	"查看笔记"
-[8]:https://anesck.github.io/English_Magician/typora_html/8.副词.html	"查看笔记"
-[9]:https://anesck.github.io/English_Magician/typora_html/9.语气.html	"查看笔记"
-[11]:https://anesck.github.io/English_Magician/typora_html/11.主语动词一致性.html	"查看笔记"
-[12]:https://anesck.github.io/English_Magician/typora_html/12.名词从句.html	"查看笔记"
-[13]:https://anesck.github.io/English_Magician/typora_html/13.副词从句.html	"查看笔记"
-[22]:https://anesck.github.io/English_Magician/typora_html/22.倒装句.html	"查看笔记"
+[1]:https://anesck.github.io/EnglishMagician/typora_html/1.基本句型及补语.html	"查看笔记"
+[2]:https://anesck.github.io/EnglishMagician/typora_html/2.名词短语与冠词.html	"查看笔记"
+[3]:https://anesck.github.io/EnglishMagician/typora_html/3.动词时态.html	"查看笔记"
+[5]:https://anesck.github.io/EnglishMagician/typora_html/5.动名词.html	"查看笔记"
+[8]:https://anesck.github.io/EnglishMagician/typora_html/8.副词.html	"查看笔记"
+[9]:https://anesck.github.io/EnglishMagician/typora_html/9.语气.html	"查看笔记"
+[11]:https://anesck.github.io/EnglishMagician/typora_html/11.主语动词一致性.html	"查看笔记"
+[12]:https://anesck.github.io/EnglishMagician/typora_html/12.名词从句.html	"查看笔记"
+[13]:https://anesck.github.io/EnglishMagician/typora_html/13.副词从句.html	"查看笔记"
+[22]:https://anesck.github.io/EnglishMagician/typora_html/22.倒装句.html	"查看笔记"
 
